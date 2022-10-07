@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SASS-ff69b4?logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHPStorm-white?logo=phpstorm&logoColor=black"/>
 </p>
 
 <!---
