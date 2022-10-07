@@ -2,6 +2,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white"/>
 </p>
 
 <!---
