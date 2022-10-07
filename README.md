@@ -1,7 +1,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3"/>
 </p>
 
 <!---
