@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SASS-ff69b4?logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHPStorm-white?logo=phpstorm&logoColor=black"/>
-<img src="https://img.shields.io/badge/-PHP8.0-%238993be?logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP 8.0-%238993be?logo=php&logoColor=white"/>
 </p>
 
 <!---
